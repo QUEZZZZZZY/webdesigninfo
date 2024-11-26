@@ -1,0 +1,23 @@
+/* Стили для раздела */
+body {
+    background: #43cea2;
+}
+
+h1 {
+    color: #fff;
+}
+
+#section-content {
+    padding: 20px;
+}
+
+#back-button {
+    background-color: #0056b3;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#back-button:hover {
+    background-color: #004494;
+}
